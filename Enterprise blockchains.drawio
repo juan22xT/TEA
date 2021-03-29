@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T15:09:52.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="dfZ5q1uZ_2rYnC2OizBK" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-29T15:15:27.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="BxYrfmWO-5hva43wlsNS" version="14.5.3" type="github">
   <diagram id="dw97tyX9ekady96ZpCDD" name="Page-1">
-    <mxGraphModel dx="2310" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,10 +140,13 @@
           <mxGeometry x="1050" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xIQiHfjdZYUgUe5AyErV-3" value="Tokenization of time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1330" width="40" height="20" as="geometry" />
+          <mxGeometry x="1240" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-4" target="xIQiHfjdZYUgUe5AyErV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-4" value="Freelance worker offers (and verifies) a given set of person-hours and skills" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xIQiHfjdZYUgUe5AyErV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-5" target="xIQiHfjdZYUgUe5AyErV-7">
           <mxGeometry relative="1" as="geometry" />
@@ -159,6 +162,15 @@
         </mxCell>
         <mxCell id="xIQiHfjdZYUgUe5AyErV-9" value="User can spot the alterations without need to trust the platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="338" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-11" target="xIQiHfjdZYUgUe5AyErV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-11" value="Tokens are issued" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
