@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T09:50:44.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="EWH3z-ECc_Qs79yTNVpY" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-29T14:44:43.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="zUUYnbdY53BYkbKoqCT3" version="14.5.3" type="github">
   <diagram id="dw97tyX9ekady96ZpCDD" name="Page-1">
-    <mxGraphModel dx="2557" dy="2134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,47 +88,77 @@
             <mxPoint x="270" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtEfYv3JXpzBpmYwCRDt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtEfYv3JXpzBpmYwCRDt-1" target="QtEfYv3JXpzBpmYwCRDt-2">
+        <mxCell id="QtEfYv3JXpzBpmYwCRDt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QtEfYv3JXpzBpmYwCRDt-1" target="QtEfYv3JXpzBpmYwCRDt-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QtEfYv3JXpzBpmYwCRDt-1" value="License is issued&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QtEfYv3JXpzBpmYwCRDt-1" value="License is issued&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QtEfYv3JXpzBpmYwCRDt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtEfYv3JXpzBpmYwCRDt-2" target="QtEfYv3JXpzBpmYwCRDt-4">
+        <mxCell id="QtEfYv3JXpzBpmYwCRDt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QtEfYv3JXpzBpmYwCRDt-2" target="QtEfYv3JXpzBpmYwCRDt-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QtEfYv3JXpzBpmYwCRDt-2" value="License is tokenized" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QtEfYv3JXpzBpmYwCRDt-2" value="License is tokenized" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QtEfYv3JXpzBpmYwCRDt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtEfYv3JXpzBpmYwCRDt-4" target="QtEfYv3JXpzBpmYwCRDt-6">
+        <mxCell id="QtEfYv3JXpzBpmYwCRDt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QtEfYv3JXpzBpmYwCRDt-4" target="QtEfYv3JXpzBpmYwCRDt-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QtEfYv3JXpzBpmYwCRDt-4" value="User purchases tokens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QtEfYv3JXpzBpmYwCRDt-4" value="User purchases tokens" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QtEfYv3JXpzBpmYwCRDt-6" value="User consumes some tokens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QtEfYv3JXpzBpmYwCRDt-6" value="User consumes some tokens" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QtEfYv3JXpzBpmYwCRDt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtEfYv3JXpzBpmYwCRDt-8" target="QtEfYv3JXpzBpmYwCRDt-10">
+        <mxCell id="QtEfYv3JXpzBpmYwCRDt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QtEfYv3JXpzBpmYwCRDt-8" target="QtEfYv3JXpzBpmYwCRDt-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QtEfYv3JXpzBpmYwCRDt-8" value="User resells unused tokens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QtEfYv3JXpzBpmYwCRDt-8" value="User resells unused tokens" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QtEfYv3JXpzBpmYwCRDt-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="QtEfYv3JXpzBpmYwCRDt-6" target="QtEfYv3JXpzBpmYwCRDt-8">
+        <mxCell id="QtEfYv3JXpzBpmYwCRDt-9" value="" style="endArrow=classic;html=1;" parent="1" source="QtEfYv3JXpzBpmYwCRDt-6" target="QtEfYv3JXpzBpmYwCRDt-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="390" as="sourcePoint" />
             <mxPoint x="990" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QtEfYv3JXpzBpmYwCRDt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtEfYv3JXpzBpmYwCRDt-10" target="QtEfYv3JXpzBpmYwCRDt-12">
+        <mxCell id="QtEfYv3JXpzBpmYwCRDt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QtEfYv3JXpzBpmYwCRDt-10" target="QtEfYv3JXpzBpmYwCRDt-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QtEfYv3JXpzBpmYwCRDt-10" value="Blockchain verifies the validity of the tokens transferred" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QtEfYv3JXpzBpmYwCRDt-10" value="Blockchain verifies the validity of the tokens transferred" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QtEfYv3JXpzBpmYwCRDt-12" value="New user is allowed to use the software" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QtEfYv3JXpzBpmYwCRDt-12" value="New user is allowed to use the software" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-1" target="xIQiHfjdZYUgUe5AyErV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-1" value="Content is created and token with unique hash is generated" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="37" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-2" value="Timestamp tokens" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-3" value="Tokenization of time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-5" target="xIQiHfjdZYUgUe5AyErV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-5" value="Content is altered" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="137" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-7" target="xIQiHfjdZYUgUe5AyErV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-7" value="Hash changes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="338" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
