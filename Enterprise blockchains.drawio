@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T15:15:27.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="BxYrfmWO-5hva43wlsNS" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T15:10:19.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="b1UGhKN06ntdFNXaIRl9" version="14.5.3" type="github">
   <diagram id="dw97tyX9ekady96ZpCDD" name="Page-1">
-    <mxGraphModel dx="2310" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,14 +163,38 @@
         <mxCell id="xIQiHfjdZYUgUe5AyErV-9" value="User can spot the alterations without need to trust the platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="338" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-11" target="xIQiHfjdZYUgUe5AyErV-13">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-11" target="xIQiHfjdZYUgUe5AyErV-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-11" value="Tokens are issued" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-11" target="JDxZoGSSMAapTLGDirdm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-11" value="&lt;span&gt;Tokens are issued and purchased in the primary market&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="JDxZoGSSMAapTLGDirdm-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-13" target="JDxZoGSSMAapTLGDirdm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-13" value="Tokens are traded in the secondary market" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-2" value="&lt;span&gt;Tokenholder can redeem the token for e.g. a work-hour of the freelance worker&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-13" target="JDxZoGSSMAapTLGDirdm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="230" as="sourcePoint" />
+            <mxPoint x="1020" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-6" value="Freelance worker obtains a payment in advance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="77" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-11" target="JDxZoGSSMAapTLGDirdm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-8" value="Freelance worker gains access to a larger job market; companies and clients gain access to a larger pool of professionals to choose from" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="338" width="120" height="142" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
