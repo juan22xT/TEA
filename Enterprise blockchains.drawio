@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T15:34:24.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="yyRZYQjZGll0MOkYZDm4" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T15:36:05.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="3rXVsuA0bdjljaE7Uzwv" version="14.5.3" type="github">
   <diagram id="dw97tyX9ekady96ZpCDD" name="Page-1">
     <mxGraphModel dx="1865" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,7 +276,7 @@
         <mxCell id="JDxZoGSSMAapTLGDirdm-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-35" target="JDxZoGSSMAapTLGDirdm-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-35" target="JDxZoGSSMAapTLGDirdm-39">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-35" target="JDxZoGSSMAapTLGDirdm-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JDxZoGSSMAapTLGDirdm-35" value="Governance tokens are purchased because they provide rewards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -285,8 +285,14 @@
         <mxCell id="JDxZoGSSMAapTLGDirdm-37" value="Governance tokens are traded in the secondary market" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2361" y="97" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="JDxZoGSSMAapTLGDirdm-39" value="Tokenholder (often above a minimum stake threshold) creates a proposal consisting of executable code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="200" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-42" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-37" target="JDxZoGSSMAapTLGDirdm-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2300" y="110" as="sourcePoint" />
+            <mxPoint x="2350" y="60" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
