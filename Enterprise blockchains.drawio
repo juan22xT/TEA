@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T15:33:53.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="yabR3QdEYd5D3qU9l36K" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T15:34:24.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="yyRZYQjZGll0MOkYZDm4" version="14.5.3" type="github">
   <diagram id="dw97tyX9ekady96ZpCDD" name="Page-1">
     <mxGraphModel dx="1865" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -274,6 +274,9 @@
           <mxGeometry x="2200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JDxZoGSSMAapTLGDirdm-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-35" target="JDxZoGSSMAapTLGDirdm-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-35" target="JDxZoGSSMAapTLGDirdm-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JDxZoGSSMAapTLGDirdm-35" value="Governance tokens are purchased because they provide rewards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
