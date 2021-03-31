@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T15:43:36.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="CoZU2U9oobTLFgVUX8fp" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T17:29:11.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vf7BJpOZ6oMD7iieWcwN" version="14.5.3" type="github">
   <diagram id="dw97tyX9ekady96ZpCDD" name="Page-1">
-    <mxGraphModel dx="1865" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -367,6 +367,21 @@
             <mxPoint x="2300" y="310" as="sourcePoint" />
             <mxPoint x="2490" y="250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-62" value="Offer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-63" target="JDxZoGSSMAapTLGDirdm-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-63" value="Acceptance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-64" value="Validation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-65" value="Triple-signed receipt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
