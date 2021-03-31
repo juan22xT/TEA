@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T10:29:18.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="G65TQJnN1y4OTS1dmGfj" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T11:58:11.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="VNVsdOe3FbYCqiT5pgDX" version="14.5.3" type="github">
   <diagram id="dw97tyX9ekady96ZpCDD" name="Page-1">
-    <mxGraphModel dx="1692" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,23 +211,61 @@
         <mxCell id="JDxZoGSSMAapTLGDirdm-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-15" target="JDxZoGSSMAapTLGDirdm-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-15" value="Token representing 1 ton CO&lt;sub&gt;2&lt;/sub&gt;e is minted and given to the sinking organization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-15" value="Token representing -1 ton CO&lt;sub&gt;2&lt;/sub&gt;e is minted and given to the sinking organization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1654" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JDxZoGSSMAapTLGDirdm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-17" target="JDxZoGSSMAapTLGDirdm-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JDxZoGSSMAapTLGDirdm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-17" target="JDxZoGSSMAapTLGDirdm-20">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1714" y="380" />
+              <mxPoint x="1894" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JDxZoGSSMAapTLGDirdm-17" value="GHG-emitting firms purchase the tokens, reducing their net GHG balance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1654" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-19" value="Companies can meet legal maxima on their GHG emissions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1564" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="JDxZoGSSMAapTLGDirdm-19" value="&lt;span&gt;Companies can improve their reputation with reduced net impact&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-20" value="Companies can improve their reputation with reduced net impact" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1744" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="JDxZoGSSMAapTLGDirdm-20" value="Companies can meet legal maxima on their GHG emissions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1834" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-23" target="JDxZoGSSMAapTLGDirdm-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-23" value="Organization emits carbon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-24" target="JDxZoGSSMAapTLGDirdm-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-24" value="Specialized assurance agency verifies this fact" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="97" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-26" target="JDxZoGSSMAapTLGDirdm-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-26" value="Token representing 1 ton CO&lt;sub&gt;2&lt;/sub&gt;e is minted and given to the emitting organization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-28" value="If the company&#39;s balance of tokens exceeds the maximum allocated to it, it is fined&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-31" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-28" target="JDxZoGSSMAapTLGDirdm-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1840" y="300" as="sourcePoint" />
+            <mxPoint x="1890" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-32" value="Carbon offset system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1694" y="-50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-33" value="Carbon credit system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="-50" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
