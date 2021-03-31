@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T10:04:55.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="k0se4tJqLcOAowvgEoGV" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T10:08:56.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="8211AhCZJszWHolidb_z" version="14.5.3" type="github">
   <diagram id="dw97tyX9ekady96ZpCDD" name="Page-1">
     <mxGraphModel dx="1692" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,8 +196,26 @@
         <mxCell id="JDxZoGSSMAapTLGDirdm-8" value="Freelance worker gains access to a larger job market; companies and clients gain access to a larger pool of professionals to choose from" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="338" width="120" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-12" target="JDxZoGSSMAapTLGDirdm-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-12" value="Organization sinks a ton of carbon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1654" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-13" target="JDxZoGSSMAapTLGDirdm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-13" value="Specialized assurance agency verifies this fact" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="97" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-15" target="JDxZoGSSMAapTLGDirdm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-15" value="Token equivalent to 1 ton CO&lt;sub&gt;2&lt;/sub&gt;e is minted and given to sinking organization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JDxZoGSSMAapTLGDirdm-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
