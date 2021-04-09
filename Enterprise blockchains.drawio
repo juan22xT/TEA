@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T08:32:25.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="S2ctEcqxzdrdADo_CxRa" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T12:31:22.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="h--Bpr3m4Wf86z31fmNR" version="14.5.3" type="github">
   <diagram id="dw97tyX9ekady96ZpCDD" name="Page-1">
-    <mxGraphModel dx="1692" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2105" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,94 +130,94 @@
         <mxCell id="QtEfYv3JXpzBpmYwCRDt-12" value="New user is allowed to use the software" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-1" target="xIQiHfjdZYUgUe5AyErV-5">
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xIQiHfjdZYUgUe5AyErV-1" target="xIQiHfjdZYUgUe5AyErV-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-1" value="Content is created and token with unique hash is generated" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-1" value="Content is created and token with unique hash is generated" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="37" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-2" value="Timestamp tokens" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-2" value="Timestamp tokens" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1050" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-3" value="Tokenization of time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-3" value="Tokenization of time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1240" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-4" target="xIQiHfjdZYUgUe5AyErV-11">
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xIQiHfjdZYUgUe5AyErV-4" target="xIQiHfjdZYUgUe5AyErV-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-4" value="Freelance worker offers (and verifies) a given set of person-hours and skills" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-4" value="Freelance worker offers (and verifies) a given set of person-hours and skills" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-5" target="xIQiHfjdZYUgUe5AyErV-7">
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xIQiHfjdZYUgUe5AyErV-5" target="xIQiHfjdZYUgUe5AyErV-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-5" value="Content is altered" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-5" value="Content is altered" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="137" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-7" target="xIQiHfjdZYUgUe5AyErV-9">
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xIQiHfjdZYUgUe5AyErV-7" target="xIQiHfjdZYUgUe5AyErV-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-7" value="Hash changes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-7" value="Hash changes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="238" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-9" value="User can spot the alterations without need to trust the platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-9" value="User can spot the alterations without need to trust the platform" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="338" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-11" target="xIQiHfjdZYUgUe5AyErV-13">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xIQiHfjdZYUgUe5AyErV-11" target="xIQiHfjdZYUgUe5AyErV-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-11" target="JDxZoGSSMAapTLGDirdm-2">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xIQiHfjdZYUgUe5AyErV-11" target="JDxZoGSSMAapTLGDirdm-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-11" value="&lt;span&gt;Tokens are issued and purchased in the primary market&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-11" value="&lt;span&gt;Tokens are issued and purchased in the primary market&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-13" target="JDxZoGSSMAapTLGDirdm-8">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xIQiHfjdZYUgUe5AyErV-13" target="JDxZoGSSMAapTLGDirdm-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xIQiHfjdZYUgUe5AyErV-13" value="Tokens are traded in the secondary market" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xIQiHfjdZYUgUe5AyErV-13" value="Tokens are traded in the secondary market" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1360" y="238" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-2" value="&lt;span&gt;Tokenholder can redeem the token for e.g. a work-hour of the freelance worker&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-2" value="&lt;span&gt;Tokenholder can redeem the token for e.g. a work-hour of the freelance worker&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-13" target="JDxZoGSSMAapTLGDirdm-2">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xIQiHfjdZYUgUe5AyErV-13" target="JDxZoGSSMAapTLGDirdm-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="970" y="230" as="sourcePoint" />
             <mxPoint x="1020" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-6" value="Freelance worker obtains a payment in advance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-6" value="Freelance worker obtains a payment in advance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="77" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIQiHfjdZYUgUe5AyErV-11" target="JDxZoGSSMAapTLGDirdm-6">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xIQiHfjdZYUgUe5AyErV-11" target="JDxZoGSSMAapTLGDirdm-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-8" value="Freelance worker gains access to a larger job market; companies and clients gain access to a larger pool of professionals to choose from" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-8" value="Freelance worker gains access to a larger job market; companies and clients gain access to a larger pool of professionals to choose from" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1360" y="338" width="120" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-12" target="JDxZoGSSMAapTLGDirdm-13">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-12" target="JDxZoGSSMAapTLGDirdm-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-12" value="Organization sinks a ton of carbon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-12" value="Organization sinks a ton of carbon" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1654" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-13" target="JDxZoGSSMAapTLGDirdm-15">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-13" target="JDxZoGSSMAapTLGDirdm-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-13" value="Specialized assurance agency verifies this fact" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-13" value="Specialized assurance agency verifies this fact" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1654" y="97" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-15" target="JDxZoGSSMAapTLGDirdm-17">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-15" target="JDxZoGSSMAapTLGDirdm-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-15" value="Token representing -1 ton CO&lt;sub&gt;2&lt;/sub&gt;e is minted and given to the sinking organization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-15" value="Token representing -1 ton CO&lt;sub&gt;2&lt;/sub&gt;e is minted and given to the sinking organization" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1654" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-17" target="JDxZoGSSMAapTLGDirdm-19">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-17" target="JDxZoGSSMAapTLGDirdm-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-17" target="JDxZoGSSMAapTLGDirdm-20">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-17" target="JDxZoGSSMAapTLGDirdm-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1714" y="380" />
@@ -225,100 +225,100 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-17" value="GHG-emitting firms purchase the tokens, reducing their net GHG balance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-17" value="GHG-emitting firms purchase the tokens, reducing their net GHG balance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1654" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-19" value="&lt;span&gt;Companies can improve their reputation with reduced net impact&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-19" value="&lt;span&gt;Companies can improve their reputation with reduced net impact&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1654" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-20" value="Companies can meet legal maxima on their GHG emissions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-20" value="Companies can meet legal maxima on their GHG emissions" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1834" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-23" target="JDxZoGSSMAapTLGDirdm-24">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-23" target="JDxZoGSSMAapTLGDirdm-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-23" value="Organization emits carbon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-23" value="Organization emits carbon" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-24" target="JDxZoGSSMAapTLGDirdm-26">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-24" target="JDxZoGSSMAapTLGDirdm-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-24" value="Specialized assurance agency verifies this fact" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-24" value="Specialized assurance agency verifies this fact" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" y="97" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-26" target="JDxZoGSSMAapTLGDirdm-28">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-26" target="JDxZoGSSMAapTLGDirdm-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-26" value="Token representing 1 ton CO&lt;sub&gt;2&lt;/sub&gt;e is minted and given to the emitting organization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-26" value="Token representing 1 ton CO&lt;sub&gt;2&lt;/sub&gt;e is minted and given to the emitting organization" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-28" value="If the company&#39;s balance of tokens exceeds the maximum allocated to it, it is fined&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-28" value="If the company&#39;s balance of tokens exceeds the maximum allocated to it, it is fined&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1930" y="300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-31" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-28" target="JDxZoGSSMAapTLGDirdm-17">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-31" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JDxZoGSSMAapTLGDirdm-28" target="JDxZoGSSMAapTLGDirdm-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1840" y="300" as="sourcePoint" />
             <mxPoint x="1890" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-32" value="Carbon offset system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-32" value="Carbon offset system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1694" y="-50" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-33" value="Carbon credit system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-33" value="Carbon credit system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1970" y="-50" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-34" target="JDxZoGSSMAapTLGDirdm-35">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-34" target="JDxZoGSSMAapTLGDirdm-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-34" value="Governance tokens are issued" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-34" value="Governance tokens are issued" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-35" target="JDxZoGSSMAapTLGDirdm-37">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-35" target="JDxZoGSSMAapTLGDirdm-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-35" target="JDxZoGSSMAapTLGDirdm-39">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-35" target="JDxZoGSSMAapTLGDirdm-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-35" value="Governance tokens are purchased because they provide rewards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-35" value="Governance tokens are purchased because they provide rewards" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2200" y="97" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-37" value="Governance tokens are traded in the secondary market" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-37" value="Governance tokens are traded in the secondary market" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2361" y="97" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-39" target="JDxZoGSSMAapTLGDirdm-43">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-39" target="JDxZoGSSMAapTLGDirdm-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-39" value="Tokenholder (often above a minimum stake threshold) creates a proposal consisting of executable code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-39" value="Tokenholder (often above a minimum stake threshold) creates a proposal consisting of executable code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2200" y="200" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-42" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-37" target="JDxZoGSSMAapTLGDirdm-39">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-42" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JDxZoGSSMAapTLGDirdm-37" target="JDxZoGSSMAapTLGDirdm-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2300" y="110" as="sourcePoint" />
             <mxPoint x="2350" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-43" target="JDxZoGSSMAapTLGDirdm-44">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-43" target="JDxZoGSSMAapTLGDirdm-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-43" target="JDxZoGSSMAapTLGDirdm-45">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-43" target="JDxZoGSSMAapTLGDirdm-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-43" value="Vote" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-43" value="Vote" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2200" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-44" value="Rejected" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-44" value="Rejected" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2361" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-45" target="JDxZoGSSMAapTLGDirdm-49">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-45" target="JDxZoGSSMAapTLGDirdm-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-45" value="Approved (often majority of voters + minimum absolute number of votes)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-45" value="Approved (often majority of voters + minimum absolute number of votes)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2200" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-49" target="JDxZoGSSMAapTLGDirdm-50">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-49" target="JDxZoGSSMAapTLGDirdm-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-49" target="JDxZoGSSMAapTLGDirdm-51">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-49" target="JDxZoGSSMAapTLGDirdm-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2260" y="620" />
@@ -326,218 +326,284 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-49" value="Queue (waiting time to allow exit from users unhappy with changes or admins)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-49" value="Queue (waiting time to allow exit from users unhappy with changes or admins)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2200" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-50" value="Execution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-50" value="Execution" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2200" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-51" value="Expiry (if nobody executes the function after the waiting time has passed)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-51" value="Expiry (if nobody executes the function after the waiting time has passed)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2361" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-56" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-56" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2190" y="720" as="sourcePoint" />
             <mxPoint x="2190" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-57" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-57" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2490" y="720" as="sourcePoint" />
             <mxPoint x="2490" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-58" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-58" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2190" y="-20" as="sourcePoint" />
             <mxPoint x="2490" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2190" y="720" as="sourcePoint" />
             <mxPoint x="2490" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-60" value="Governance mechanism" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-60" value="Governance mechanism" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2321" y="-50" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-61" value="may affect" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-39">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-61" value="may affect" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JDxZoGSSMAapTLGDirdm-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2300" y="310" as="sourcePoint" />
             <mxPoint x="2490" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-62" target="JDxZoGSSMAapTLGDirdm-63">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-62" target="JDxZoGSSMAapTLGDirdm-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-62" value="Offer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-62" value="Offer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2560" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-66" value="signature" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-63" target="JDxZoGSSMAapTLGDirdm-65">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-66" value="signature" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-63" target="JDxZoGSSMAapTLGDirdm-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-63" target="JDxZoGSSMAapTLGDirdm-64">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-63" target="JDxZoGSSMAapTLGDirdm-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-63" value="Acceptance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-63" value="Acceptance" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2720" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-64" value="Validation&lt;br&gt;(by community of nodes)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-64" value="Validation&lt;br&gt;(by community of nodes)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2880" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-65" value="Triple-signed receipt&lt;br&gt;(shared transaction record)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-65" value="Triple-signed receipt&lt;br&gt;(shared transaction record)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2720" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-67" value="signature" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-62" target="JDxZoGSSMAapTLGDirdm-65">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-67" value="signature" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JDxZoGSSMAapTLGDirdm-62" target="JDxZoGSSMAapTLGDirdm-65" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2890" y="270" as="sourcePoint" />
             <mxPoint x="2940" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-68" value="signature" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-64" target="JDxZoGSSMAapTLGDirdm-65">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-68" value="signature" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JDxZoGSSMAapTLGDirdm-64" target="JDxZoGSSMAapTLGDirdm-65" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2940" y="180" as="sourcePoint" />
             <mxPoint x="2990" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-71" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-71" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2540" y="-40" as="sourcePoint" />
             <mxPoint x="2540" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-72" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-72" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3020" y="-43" as="sourcePoint" />
             <mxPoint x="3020" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-73" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-73" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2540" y="-40" as="sourcePoint" />
             <mxPoint x="3020" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-74" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-74" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2540" y="160" as="sourcePoint" />
             <mxPoint x="3020" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-76" value="Bookkeeping" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-76" value="Bookkeeping" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2760" y="-70" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-77" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-77" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2780" y="170" as="sourcePoint" />
             <mxPoint x="2780" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-78" value="Financial analysis and forecasting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-78" value="Financial analysis and forecasting" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2720" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-79" value="Payment&lt;br&gt;fee (token)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-79" value="Payment&lt;br&gt;fee (token)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2585" y="80" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-80" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-62" target="JDxZoGSSMAapTLGDirdm-79">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-80" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JDxZoGSSMAapTLGDirdm-62" target="JDxZoGSSMAapTLGDirdm-79" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2860" y="220" as="sourcePoint" />
             <mxPoint x="2910" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-81" value="Tax planning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-81" value="Tax planning" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2570" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-82" value="Financial reporting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-82" value="Financial reporting" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2880" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-83" value="Automated invoicing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-83" value="Automated invoicing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2570" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-84" value="Real-time auditing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-84" value="Real-time auditing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2720" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-85" value="Decision-making" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-85" value="Decision-making" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2880" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-86" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-86" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2539.41" y="200" as="sourcePoint" />
             <mxPoint x="2539.41" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-87" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-91">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-87" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" source="JDxZoGSSMAapTLGDirdm-91" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3019.41" y="197" as="sourcePoint" />
             <mxPoint x="3019.41" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-88" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-88" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2539.41" y="200" as="sourcePoint" />
             <mxPoint x="3019.41" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-89" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-89" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2539.41" y="400" as="sourcePoint" />
             <mxPoint x="3019.41" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-90" value="Accounting tools" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-90" value="Accounting tools" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2760" y="410" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-91" value="Utility tokens" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-91" value="Utility tokens" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2980" y="270" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-92" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1" target="JDxZoGSSMAapTLGDirdm-91">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-92" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" target="JDxZoGSSMAapTLGDirdm-91" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3019.41" y="197" as="sourcePoint" />
             <mxPoint x="3019.41" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-97" value="Invoice tokenization" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-97" value="Invoice tokenization" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2595" y="330" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-102" target="JDxZoGSSMAapTLGDirdm-103">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-102" target="JDxZoGSSMAapTLGDirdm-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-102" value="Individual provides sensitive personal information to specialized party" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-102" value="Individual provides sensitive personal information to specialized party" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3308" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-103" target="JDxZoGSSMAapTLGDirdm-105">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-103" target="JDxZoGSSMAapTLGDirdm-105" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-103" value="Specialized party stores the data in a vault, returns a token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-103" value="Specialized party stores the data in a vault, returns a token" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3308" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-105" target="JDxZoGSSMAapTLGDirdm-114">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-105" target="JDxZoGSSMAapTLGDirdm-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-105" value="Individual can prove identity with the token, not revealing underlying data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-105" value="Individual can prove identity with the token, not revealing underlying data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3308" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-109" target="JDxZoGSSMAapTLGDirdm-114">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDxZoGSSMAapTLGDirdm-109" target="JDxZoGSSMAapTLGDirdm-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-109" value="Company requires information, solicits the answers to its queries from the vault, without receiving the sensitive data itself" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-109" value="Company requires information, solicits the answers to its queries from the vault, without receiving the sensitive data itself" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3480" y="90" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-112" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-109" target="JDxZoGSSMAapTLGDirdm-103">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-112" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="JDxZoGSSMAapTLGDirdm-109" target="JDxZoGSSMAapTLGDirdm-103" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3490" y="110" as="sourcePoint" />
             <mxPoint x="3540" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-113" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JDxZoGSSMAapTLGDirdm-109" target="JDxZoGSSMAapTLGDirdm-105">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-113" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JDxZoGSSMAapTLGDirdm-109" target="JDxZoGSSMAapTLGDirdm-105" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3360" y="160" as="sourcePoint" />
             <mxPoint x="3410" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDxZoGSSMAapTLGDirdm-114" value="Data breaches are harder to achieve and more inconsequential" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JDxZoGSSMAapTLGDirdm-114" value="Data breaches are harder to achieve and more inconsequential" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3395" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JI46mw0r-5-5mR7UGKV-1" target="9JI46mw0r-5-5mR7UGKV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-1" value="Design of initial instrument" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-7" value="feedback" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9JI46mw0r-5-5mR7UGKV-2" target="9JI46mw0r-5-5mR7UGKV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3901" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3981" y="20" />
+              <mxPoint x="3820" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JI46mw0r-5-5mR7UGKV-2" target="9JI46mw0r-5-5mR7UGKV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-2" value="Internal discussion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3921" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JI46mw0r-5-5mR7UGKV-8" target="9JI46mw0r-5-5mR7UGKV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-8" value="Sharing instrument with companies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4081" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-11" value="feedback" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JI46mw0r-5-5mR7UGKV-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3821" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4141" y="120" />
+              <mxPoint x="3821" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JI46mw0r-5-5mR7UGKV-10" target="9JI46mw0r-5-5mR7UGKV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-10" value="Interview (video-call) jointly going throught the survey" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4081" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-20" value="incorporated" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JI46mw0r-5-5mR7UGKV-13" target="9JI46mw0r-5-5mR7UGKV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-13" value="Follow-up correspondence and filling in the survey in writing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4241" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-15" value="Responses to the survey are transcribed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4241" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-16" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9JI46mw0r-5-5mR7UGKV-10" target="9JI46mw0r-5-5mR7UGKV-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4361" y="50" as="sourcePoint" />
+            <mxPoint x="4411" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-17" value="UCL CBT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3690" y="-40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-18" value="Enterprise Blockchains" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3690" y="57" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4400" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
