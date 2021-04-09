@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T12:32:38.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="GSQa9X9xAg3ANz2sOHLq" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T12:32:47.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="rYH70pGj8zrh48whsmnI" version="14.5.3" type="github">
   <diagram id="dw97tyX9ekady96ZpCDD" name="Page-1">
     <mxGraphModel dx="2105" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -542,7 +542,7 @@
         <mxCell id="9JI46mw0r-5-5mR7UGKV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JI46mw0r-5-5mR7UGKV-1" target="9JI46mw0r-5-5mR7UGKV-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9JI46mw0r-5-5mR7UGKV-1" value="Design of initial instrument" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-1" value="Design of initial instrument based on prior literature" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3760" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9JI46mw0r-5-5mR7UGKV-7" value="feedback" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9JI46mw0r-5-5mR7UGKV-2" target="9JI46mw0r-5-5mR7UGKV-1">
