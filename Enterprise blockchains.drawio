@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T12:31:22.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="h--Bpr3m4Wf86z31fmNR" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T12:32:38.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="GSQa9X9xAg3ANz2sOHLq" version="14.5.3" type="github">
   <diagram id="dw97tyX9ekady96ZpCDD" name="Page-1">
     <mxGraphModel dx="2105" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -587,6 +587,9 @@
         <mxCell id="9JI46mw0r-5-5mR7UGKV-13" value="Follow-up correspondence and filling in the survey in writing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4241" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JI46mw0r-5-5mR7UGKV-15" target="9JI46mw0r-5-5mR7UGKV-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9JI46mw0r-5-5mR7UGKV-15" value="Responses to the survey are transcribed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4241" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
@@ -602,8 +605,20 @@
         <mxCell id="9JI46mw0r-5-5mR7UGKV-18" value="Enterprise Blockchains" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3690" y="57" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9JI46mw0r-5-5mR7UGKV-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-27" value="update" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JI46mw0r-5-5mR7UGKV-19" target="9JI46mw0r-5-5mR7UGKV-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-19" value="Report draft is shared with the companies for feedback" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4400" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9JI46mw0r-5-5mR7UGKV-22" target="9JI46mw0r-5-5mR7UGKV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-22" value="First draft of the report is produced" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4400" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9JI46mw0r-5-5mR7UGKV-26" value="Final report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4560" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
