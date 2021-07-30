@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T07:45:46.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="PoFJYjJgAmZfJw8OnnDV" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-30T07:54:22.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="wq-hMqZtlZTQ3bx4xP0e" version="14.8.1" type="github">
   <diagram id="duXoXFx3iCHl3irtbJjZ" name="Page-1">
     <mxGraphModel dx="1863" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,14 +83,16 @@
             <mxPoint x="40" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6IfzDvL9XaSQyjptvdDc-4" value="Scientific Committee" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-120" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="6IfzDvL9XaSQyjptvdDc-4" value="Grant-giving Committee" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-110" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6IfzDvL9XaSQyjptvdDc-110" value="has a seat on" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="6IfzDvL9XaSQyjptvdDc-5" target="6IfzDvL9XaSQyjptvdDc-4">
+        <mxCell id="6IfzDvL9XaSQyjptvdDc-110" value="has a seat on" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="6IfzDvL9XaSQyjptvdDc-5">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="40" as="targetPoint" />
             <Array as="points">
               <mxPoint x="300" y="-80" />
-              <mxPoint x="-90" y="-80" />
+              <mxPoint x="-50" y="-80" />
+              <mxPoint x="-50" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -149,8 +151,8 @@
             <mxPoint x="1040" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6IfzDvL9XaSQyjptvdDc-26" value="&lt;b style=&quot;font-size: 21px;&quot;&gt;Entity&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="480" width="40" height="20" as="geometry" />
+        <mxCell id="6IfzDvL9XaSQyjptvdDc-26" value="&lt;b style=&quot;font-size: 21px&quot;&gt;Entity (Name - Initiator)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="480" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6IfzDvL9XaSQyjptvdDc-27" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6IfzDvL9XaSQyjptvdDc-10" target="6IfzDvL9XaSQyjptvdDc-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -411,6 +413,12 @@
         </mxCell>
         <mxCell id="6IfzDvL9XaSQyjptvdDc-109" value="&lt;b style=&quot;font-size: 21px;&quot;&gt;HBAR Program&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="-360" y="240" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6IfzDvL9XaSQyjptvdDc-111" value="Scientific Committee" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-270" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6IfzDvL9XaSQyjptvdDc-112" value="More specific mandate pending" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-257.5" y="110" width="95" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
