@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T07:54:22.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="wq-hMqZtlZTQ3bx4xP0e" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-30T08:04:13.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="WmD-Icx_ZPXKW6XyV8Xj" version="14.8.1" type="github">
   <diagram id="duXoXFx3iCHl3irtbJjZ" name="Page-1">
-    <mxGraphModel dx="1863" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2554" dy="2132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -419,6 +419,9 @@
         </mxCell>
         <mxCell id="6IfzDvL9XaSQyjptvdDc-112" value="More specific mandate pending" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-257.5" y="110" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6IfzDvL9XaSQyjptvdDc-113" value="3/4 people" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="374" y="50" width="56" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
