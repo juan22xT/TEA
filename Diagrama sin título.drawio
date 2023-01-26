@@ -1,22 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T17:43:43.347Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="duGiokQw0Y9bLcqMPgqi" version="20.8.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-26T17:55:36.881Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3xf56TPPkwzbuM5uhFtu" version="20.8.12" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1792" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2555" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IPUSVB4RyrH6yRbEzgtf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="IPUSVB4RyrH6yRbEzgtf-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="140" />
-              <mxPoint x="30" y="140" />
+              <mxPoint x="530" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IPUSVB4RyrH6yRbEzgtf-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="IPUSVB4RyrH6yRbEzgtf-3">
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="IPUSVB4RyrH6yRbEzgtf-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="IPUSVB4RyrH6yRbEzgtf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="140" />
+              <mxPoint x="21" y="140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Begin collection of blockchain #N" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
@@ -50,11 +55,19 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="TPS data exists?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="290" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IPUSVB4RyrH6yRbEzgtf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="IPUSVB4RyrH6yRbEzgtf-29">
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="IPUSVB4RyrH6yRbEzgtf-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="800" />
-              <mxPoint x="380" y="800" />
+              <mxPoint x="465" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="IPUSVB4RyrH6yRbEzgtf-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="680" />
+              <mxPoint x="250" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -89,11 +102,22 @@
         <mxCell id="IPUSVB4RyrH6yRbEzgtf-4" value="Try source #n+1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="190" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IPUSVB4RyrH6yRbEzgtf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IPUSVB4RyrH6yRbEzgtf-5" target="IPUSVB4RyrH6yRbEzgtf-19">
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IPUSVB4RyrH6yRbEzgtf-55" target="IPUSVB4RyrH6yRbEzgtf-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IPUSVB4RyrH6yRbEzgtf-5" target="IPUSVB4RyrH6yRbEzgtf-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IPUSVB4RyrH6yRbEzgtf-5" target="IPUSVB4RyrH6yRbEzgtf-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-110" y="380" />
+              <mxPoint x="-110" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IPUSVB4RyrH6yRbEzgtf-5" value="Take individual node power consumption data from local sources (W)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-40" y="430" width="140" height="40" as="geometry" />
+          <mxGeometry x="-49" y="360" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IPUSVB4RyrH6yRbEzgtf-6" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="WIyWlLk6GJQsqaUBKTNV-10">
           <mxGeometry y="20" relative="1" as="geometry">
@@ -116,6 +140,14 @@
         <mxCell id="IPUSVB4RyrH6yRbEzgtf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IPUSVB4RyrH6yRbEzgtf-12" target="IPUSVB4RyrH6yRbEzgtf-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IPUSVB4RyrH6yRbEzgtf-12" target="IPUSVB4RyrH6yRbEzgtf-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219" y="680" />
+              <mxPoint x="250" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IPUSVB4RyrH6yRbEzgtf-12" value="Collect # of validators" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="159" y="430" width="120" height="40" as="geometry" />
         </mxCell>
@@ -137,19 +169,70 @@
         <mxCell id="IPUSVB4RyrH6yRbEzgtf-25" value="Convert to energy (kWh) per hour (simply change unit)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="660" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IPUSVB4RyrH6yRbEzgtf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IPUSVB4RyrH6yRbEzgtf-27" target="IPUSVB4RyrH6yRbEzgtf-29">
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IPUSVB4RyrH6yRbEzgtf-27" target="IPUSVB4RyrH6yRbEzgtf-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="130" y="800" />
-              <mxPoint x="380" y="800" />
+              <mxPoint x="465" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IPUSVB4RyrH6yRbEzgtf-27" value="Convert to kWh per second (divide by 3,600)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="730" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IPUSVB4RyrH6yRbEzgtf-29" target="IPUSVB4RyrH6yRbEzgtf-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IPUSVB4RyrH6yRbEzgtf-29" value="Divide energy per second by TPS to obtain energy per transaction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="840" width="140" height="40" as="geometry" />
+          <mxGeometry x="395" y="840" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-34" value="Rank all blockchains by energy per tx (latest observation)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395" y="920" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-36" value="Direct on-chain data would be better, crawling dashboards ok" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="120" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-37" value="Try to ensure comparability. Data should correspond to the same day and period inasmuch as possible" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="510" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-40" value="Product #2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="1145" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IPUSVB4RyrH6yRbEzgtf-45" target="IPUSVB4RyrH6yRbEzgtf-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-45" value="Conduct a linear regression for all data points of # of validators &amp;amp; TPS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="840" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-53" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="160" width="650" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-55" value="Power consumption is a range, hence make an average of min and max" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-50" y="430" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-61" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="405" width="650" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IPUSVB4RyrH6yRbEzgtf-62" target="IPUSVB4RyrH6yRbEzgtf-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-62" value="Plot function for each blockchain" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="940" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IPUSVB4RyrH6yRbEzgtf-64" target="IPUSVB4RyrH6yRbEzgtf-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-64" value="Multiply # of validators for power consumption (range)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="1030" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-66" value="Plot energy consumption/tx (Y axis) and TPS (X axis)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="1130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-72" value="Product #1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="925" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUSVB4RyrH6yRbEzgtf-74" value="&lt;i&gt;Key issue: data colleciton frequency&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="50" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
