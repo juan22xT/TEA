@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T17:55:09.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5ybayIQiwjZ30A9VbBeH" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-11T17:56:26.779Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sbl2LlQp4mxtjOdXLIOU" version="20.8.20" type="github" pages="2">
   <diagram name="Script" id="T09IcDivrrDEmKKWEjZW">
     <mxGraphModel dx="2094" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,11 +116,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7EYrFL05jtuFsrQtmnSU" name="Projections">
-    <mxGraphModel dx="1904" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2792" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f_eVIO3XWOLjasseER8p-1" value="ASIC bottleneck" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="f_eVIO3XWOLjasseER8p-1" value="ASIC bottleneck cleared" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f_eVIO3XWOLjasseER8p-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_eVIO3XWOLjasseER8p-3" target="f_eVIO3XWOLjasseER8p-7">
@@ -324,6 +324,9 @@
         </mxCell>
         <mxCell id="f_eVIO3XWOLjasseER8p-56" value="Unclear effect on rig price and rig purchases" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="351" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9t5dZfDrg9cAG4_3pTD4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_eVIO3XWOLjasseER8p-57" target="f_eVIO3XWOLjasseER8p-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f_eVIO3XWOLjasseER8p-57" value="+ profit asymmetry with older miners" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="740" width="120" height="60" as="geometry" />
