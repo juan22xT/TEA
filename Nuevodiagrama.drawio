@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T17:31:21.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fdOM2j9Q_pg6JLT17K3k" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-11T17:33:16.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sxCGmZMT8vlzRsNYVFCM" version="20.8.20" type="github">
   <diagram name="Página-1" id="T09IcDivrrDEmKKWEjZW">
     <mxGraphModel dx="2094" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,10 +153,17 @@
             <mxPoint x="304" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Cksrx6LyEW_wicHxSHrL-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cksrx6LyEW_wicHxSHrL-42" target="Cksrx6LyEW_wicHxSHrL-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Cksrx6LyEW_wicHxSHrL-42" value="+ sophistication in energy harnessing schemes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Cksrx6LyEW_wicHxSHrL-44" value="+ Cost sensitivity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Cksrx6LyEW_wicHxSHrL-44" value="+ Cost sensitivity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cksrx6LyEW_wicHxSHrL-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cksrx6LyEW_wicHxSHrL-32" target="Cksrx6LyEW_wicHxSHrL-44">
@@ -171,10 +178,20 @@
         <mxCell id="Cksrx6LyEW_wicHxSHrL-46" value="- CAPEX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Cksrx6LyEW_wicHxSHrL-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cksrx6LyEW_wicHxSHrL-48" target="Cksrx6LyEW_wicHxSHrL-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Cksrx6LyEW_wicHxSHrL-48" value="+ tolerance of downtime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cksrx6LyEW_wicHxSHrL-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cksrx6LyEW_wicHxSHrL-49" target="Cksrx6LyEW_wicHxSHrL-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cksrx6LyEW_wicHxSHrL-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cksrx6LyEW_wicHxSHrL-49" target="Cksrx6LyEW_wicHxSHrL-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cksrx6LyEW_wicHxSHrL-49" value="+ hash rate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -198,7 +215,7 @@
         <mxCell id="Cksrx6LyEW_wicHxSHrL-54" value="- marginal revenue of mining" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Cksrx6LyEW_wicHxSHrL-58" value="- hash rate&lt;br&gt;(natural limit)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Cksrx6LyEW_wicHxSHrL-58" value="- hash rate&lt;br&gt;(natural limit)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="990" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cksrx6LyEW_wicHxSHrL-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cksrx6LyEW_wicHxSHrL-61" target="Cksrx6LyEW_wicHxSHrL-63">
@@ -210,6 +227,15 @@
         <mxCell id="Cksrx6LyEW_wicHxSHrL-61" value="+ miner bankruptices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="920" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Cksrx6LyEW_wicHxSHrL-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cksrx6LyEW_wicHxSHrL-63" target="Cksrx6LyEW_wicHxSHrL-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="950" />
+              <mxPoint x="1150" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Cksrx6LyEW_wicHxSHrL-63" value="+ vertical integration with RE generators" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="920" width="120" height="60" as="geometry" />
         </mxCell>
@@ -217,6 +243,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cksrx6LyEW_wicHxSHrL-65" value="+ acquisitions from miners better at harnessing energy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cksrx6LyEW_wicHxSHrL-69" value="+ difficulty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
