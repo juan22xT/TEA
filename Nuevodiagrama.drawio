@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T18:57:18.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ZNepxEwzi6n0da9Nfh1c" version="20.8.20" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-11T19:11:17.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="eTNxwlWQMXK1JidGI0Zd" version="20.8.20" type="github" pages="4">
   <diagram name="Script" id="T09IcDivrrDEmKKWEjZW">
     <mxGraphModel dx="3222" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -711,6 +711,48 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="n9NzZfhpzonn4VuChm80-1" value="RE penetration" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9NzZfhpzonn4VuChm80-2" value="Income effect" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="160" y="55" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9NzZfhpzonn4VuChm80-3" value="Peak shaving" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="279" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9NzZfhpzonn4VuChm80-4" value="Load building" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="279" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9NzZfhpzonn4VuChm80-5" value="Valley filling" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="279" y="55" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9NzZfhpzonn4VuChm80-7" value="Composition effect" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9NzZfhpzonn4VuChm80-9" value="Decarbonizing additions of load" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="279" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9NzZfhpzonn4VuChm80-10" value="Flexibility" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="279" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9NzZfhpzonn4VuChm80-13" value="Grid decongestion" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9NzZfhpzonn4VuChm80-18" value="Grid resiliency" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9NzZfhpzonn4VuChm80-21" value="Cheapening additions of load" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="279" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9NzZfhpzonn4VuChm80-22" value="Green hashrate" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9NzZfhpzonn4VuChm80-25" value="Efficient cap. allocation" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n9NzZfhpzonn4VuChm80-29" value="Price discovery" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
