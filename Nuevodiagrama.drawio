@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T17:52:27.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1ig9K6YPYny6LgiGixwR" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-11T17:52:48.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ggc2bg5zjygF7IJzCQL4" version="20.8.20" type="github" pages="2">
   <diagram name="Script" id="T09IcDivrrDEmKKWEjZW">
     <mxGraphModel dx="2094" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,19 +120,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="f_eVIO3XWOLjasseER8p-1" value="ASIC bottleneck" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_eVIO3XWOLjasseER8p-1" value="ASIC bottleneck" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f_eVIO3XWOLjasseER8p-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_eVIO3XWOLjasseER8p-3" target="f_eVIO3XWOLjasseER8p-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f_eVIO3XWOLjasseER8p-3" value="Commodification of ASIC supply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_eVIO3XWOLjasseER8p-3" value="Commodification of ASIC supply" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f_eVIO3XWOLjasseER8p-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_eVIO3XWOLjasseER8p-5" target="f_eVIO3XWOLjasseER8p-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f_eVIO3XWOLjasseER8p-5" value="Deceleration of ASIC improvement rate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_eVIO3XWOLjasseER8p-5" value="Deceleration of ASIC improvement rate" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f_eVIO3XWOLjasseER8p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f_eVIO3XWOLjasseER8p-7" target="f_eVIO3XWOLjasseER8p-17">
@@ -259,7 +259,7 @@
         <mxCell id="f_eVIO3XWOLjasseER8p-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_eVIO3XWOLjasseER8p-38" target="f_eVIO3XWOLjasseER8p-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f_eVIO3XWOLjasseER8p-38" value="Halving" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_eVIO3XWOLjasseER8p-38" value="Halving" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f_eVIO3XWOLjasseER8p-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_eVIO3XWOLjasseER8p-40" target="f_eVIO3XWOLjasseER8p-46">
@@ -271,7 +271,7 @@
         <mxCell id="f_eVIO3XWOLjasseER8p-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_eVIO3XWOLjasseER8p-42" target="f_eVIO3XWOLjasseER8p-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f_eVIO3XWOLjasseER8p-42" value="BTC adoption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_eVIO3XWOLjasseER8p-42" value="BTC adoption" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f_eVIO3XWOLjasseER8p-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_eVIO3XWOLjasseER8p-44" target="f_eVIO3XWOLjasseER8p-48">
@@ -358,13 +358,13 @@
         <mxCell id="f_eVIO3XWOLjasseER8p-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_eVIO3XWOLjasseER8p-65" target="f_eVIO3XWOLjasseER8p-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f_eVIO3XWOLjasseER8p-65" value="More access to credit for miners" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_eVIO3XWOLjasseER8p-65" value="More access to credit for miners" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f_eVIO3XWOLjasseER8p-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f_eVIO3XWOLjasseER8p-67" target="f_eVIO3XWOLjasseER8p-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f_eVIO3XWOLjasseER8p-67" value="Exogenous renewable energy penetration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f_eVIO3XWOLjasseER8p-67" value="Exogenous renewable energy penetration" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f_eVIO3XWOLjasseER8p-68" value="+ intermittency and need for cost-sensitive loads" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
