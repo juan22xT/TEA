@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T18:43:43.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rlK6Dv7iGJTFBIoV8r3C" version="20.8.20" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-11T18:46:23.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="alj4WdmHf8XlRM7LmbXK" version="20.8.20" type="github" pages="3">
   <diagram name="Script" id="T09IcDivrrDEmKKWEjZW">
     <mxGraphModel dx="3222" dy="1212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -434,13 +434,13 @@
         <mxCell id="3Fi-WzZlSuqgfRlGF7e1-10" value="+ level competition in hardware terms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3Fi-WzZlSuqgfRlGF7e1-1">
           <mxGeometry x="120" y="340" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-2" target="3Fi-WzZlSuqgfRlGF7e1-8">
+        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-2" target="3Fi-WzZlSuqgfRlGF7e1-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="240" as="sourcePoint" />
             <mxPoint x="510" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-6" target="3Fi-WzZlSuqgfRlGF7e1-8">
+        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-6" target="3Fi-WzZlSuqgfRlGF7e1-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="220" as="sourcePoint" />
             <mxPoint x="194" y="300" as="targetPoint" />
@@ -459,10 +459,13 @@
         <mxCell id="3Fi-WzZlSuqgfRlGF7e1-15" value="+ Cost sensitivity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="3Fi-WzZlSuqgfRlGF7e1-1">
           <mxGeometry x="353" y="180" width="67" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-8" target="3Fi-WzZlSuqgfRlGF7e1-15">
+        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-8" target="3Fi-WzZlSuqgfRlGF7e1-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="140" as="sourcePoint" />
             <mxPoint x="510" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3Fi-WzZlSuqgfRlGF7e1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-18" target="3Fi-WzZlSuqgfRlGF7e1-20">
@@ -494,6 +497,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="314" y="300" as="sourcePoint" />
             <mxPoint x="540" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3Fi-WzZlSuqgfRlGF7e1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-28" target="3Fi-WzZlSuqgfRlGF7e1-29">
@@ -517,20 +523,18 @@
         <mxCell id="3Fi-WzZlSuqgfRlGF7e1-32" value="+ miner bank-ruptices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3Fi-WzZlSuqgfRlGF7e1-1">
           <mxGeometry x="466" y="420" width="64" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-34" target="3Fi-WzZlSuqgfRlGF7e1-15">
+        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="953" y="430" as="targetPoint" />
+            <mxPoint x="420" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="660" y="450" />
-              <mxPoint x="660" y="210" />
+              <mxPoint x="660" y="200" />
+              <mxPoint x="420" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3Fi-WzZlSuqgfRlGF7e1-34" value="+ vertical integration with RE generators" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3Fi-WzZlSuqgfRlGF7e1-1">
           <mxGeometry x="570" y="420" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-36" target="3Fi-WzZlSuqgfRlGF7e1-14">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3Fi-WzZlSuqgfRlGF7e1-36" value="+ acquisitions from miners better at harnessing energy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3Fi-WzZlSuqgfRlGF7e1-1">
           <mxGeometry x="555" y="500" width="100" height="60" as="geometry" />
@@ -589,7 +593,7 @@
         <mxCell id="3Fi-WzZlSuqgfRlGF7e1-51" value="- cost sensitivity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3Fi-WzZlSuqgfRlGF7e1-1">
           <mxGeometry x="450" y="660" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-54" target="3Fi-WzZlSuqgfRlGF7e1-56">
+        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-54" target="3Fi-WzZlSuqgfRlGF7e1-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3Fi-WzZlSuqgfRlGF7e1-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-54" target="3Fi-WzZlSuqgfRlGF7e1-58">
@@ -604,7 +608,7 @@
             <mxPoint x="194" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-56" value="Unclear effect on rig price and rig purchases" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3Fi-WzZlSuqgfRlGF7e1-1">
+        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-56" value="Unclear effect on rig prices and purchases" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3Fi-WzZlSuqgfRlGF7e1-1">
           <mxGeometry x="231" y="820" width="69" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Fi-WzZlSuqgfRlGF7e1-58" value="+ profit asymmetry with older miners" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3Fi-WzZlSuqgfRlGF7e1-1">
@@ -613,7 +617,7 @@
         <mxCell id="3Fi-WzZlSuqgfRlGF7e1-59" value="Natural limit to hash rate and energy consumption" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3Fi-WzZlSuqgfRlGF7e1-1">
           <mxGeometry x="343" y="820" width="69" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-54" target="3Fi-WzZlSuqgfRlGF7e1-59">
+        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-54" target="3Fi-WzZlSuqgfRlGF7e1-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="810" as="sourcePoint" />
             <mxPoint x="510" y="760" as="targetPoint" />
@@ -622,19 +626,21 @@
         <mxCell id="3Fi-WzZlSuqgfRlGF7e1-61" value="Unclear effect on methane mining" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3Fi-WzZlSuqgfRlGF7e1-1">
           <mxGeometry x="450" y="580" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-50" target="3Fi-WzZlSuqgfRlGF7e1-61">
+        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-50" target="3Fi-WzZlSuqgfRlGF7e1-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="500" as="sourcePoint" />
             <mxPoint x="510" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-64" target="3Fi-WzZlSuqgfRlGF7e1-15">
+        <mxCell id="3Fi-WzZlSuqgfRlGF7e1-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="160" y="900" />
               <mxPoint x="680" y="900" />
-              <mxPoint x="680" y="210" />
+              <mxPoint x="680" y="190" />
+              <mxPoint x="420" y="190" />
             </Array>
+            <mxPoint x="420" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3Fi-WzZlSuqgfRlGF7e1-64" value="+ Information complete-ness" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3Fi-WzZlSuqgfRlGF7e1-1">
@@ -686,6 +692,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="600" as="sourcePoint" />
             <mxPoint x="730" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVjVtMSR3u_F3uPocXVi-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="3Fi-WzZlSuqgfRlGF7e1-1" source="3Fi-WzZlSuqgfRlGF7e1-36" target="3Fi-WzZlSuqgfRlGF7e1-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="500" as="sourcePoint" />
+            <mxPoint x="730" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="530" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
